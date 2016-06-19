@@ -12,7 +12,7 @@ A simple command line scraper for [https://unsplash.com/](https://unsplash.com/)
 
 	node app.js [keyword] [pages] [folder]
 
-## Command lines params
+## Command line parameters
 
 **keyword**: The keyword searching
 
