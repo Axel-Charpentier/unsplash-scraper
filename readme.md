@@ -4,7 +4,7 @@ A simple command line scraper for [https://unsplash.com/](https://unsplash.com/)
 
 ## Usages
 
-	git clone https://github.com/Axel-Charpentier/unsplash-scraper.git
+	git clone https://github.com/thedevgrizzly/unsplash-scraper.git
 
 	cd unsplash-scraper
 
@@ -23,5 +23,3 @@ A simple command line scraper for [https://unsplash.com/](https://unsplash.com/)
 ## Author
 
 Axel Charpentier
-
-[http://axel-charpentier.github.io](http://axel-charpentier.github.io)
